@@ -43,3 +43,6 @@ Thumbs.db
 
 # --- Environment variables -------------------------------------------------
 .env
+
+# --- Local / private planning notes ----------------------------------------
+PLAN.md
