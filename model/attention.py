@@ -1,3 +1,5 @@
+# Author: [SunMuzihang] | Student ID: [2260031490]
+
 """Attention primitives for the Transformer (Vaswani et al., 2017).
 
 All modules follow the ``batch_first`` convention, i.e. inputs and outputs

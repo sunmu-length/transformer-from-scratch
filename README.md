@@ -1,3 +1,5 @@
+> 贡献者：[SunMuzihang] ([2260031490])
+
 <div align="center">
 
 # Transformer From Scratch

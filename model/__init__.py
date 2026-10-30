@@ -1,3 +1,5 @@
+# Author: [SunMuzihang] | Student ID: [2260031490]
+
 """Core Transformer components, implemented from scratch."""
 
 from .attention import (

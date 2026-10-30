@@ -1,3 +1,5 @@
+# Author: [SunMuzihang] | Student ID: [2260031490]
+
 """Token embeddings and positional encodings.
 
 Two positional-encoding variants are provided so that the ablation in the
