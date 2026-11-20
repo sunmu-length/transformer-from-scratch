@@ -1,0 +1,4 @@
+config,num_heads,positional_encoding,parameters,val_loss,token_accuracy,exact_match,final_train_loss,mean_train_loss
+base,4,sinusoidal,169728,0.181792,0.984958,0.910156,0.798738,1.105273
+single_head,1,sinusoidal,169728,2.689543,0.338147,0.003906,2.804365,2.992393
+learned_pe,4,learned,171008,0.125153,0.996390,0.976562,0.693232,1.038417
